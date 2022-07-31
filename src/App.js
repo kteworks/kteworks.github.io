@@ -4,6 +4,15 @@ import Header from './components/Header';
 import Homepage from './components/Homepage';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
+ReactDOM.render(
+  <React.StrictMode>
+    <Router basename={process.env.PUBLIC_URL}>
+      <App />
+    </Router>
+  </React.StrictMode>,
+  document.getElementById('root'),
+);
+
 function App() {
   return (
     <Router>
