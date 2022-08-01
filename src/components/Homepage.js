@@ -8,13 +8,12 @@ import profileImage from "../Images/sibainu.jpg";
 const Homepage = () => {
   return (
     <div className="container text-center">
-      <h1>Shin Code</h1>
+      <h1>Kazuya Terasawa</h1>
 
       <img src={profileImage} className="profileImage" />
 
       <p>
-        ShinCodeです。普段は個人でWeb系の情報発信をYoutubeやTwitterにて行っています。主にHTML/CSS/Javascript/Reactメインに取り扱っています。趣味は個人でプログラミングの撮影を行うことです。
-        ShinCodeです。普段は個人でWeb系の情報発信をYoutubeやTwitterにて行っています。主にHTML/CSS/Javascript/Reactメインに取り扱っています。趣味は個人でプログラミングの撮影を行うことです。
+        職業訓練にてC言語/Java/JSP/Servlet/SQLの基礎を学びました。趣味でも時々プログラミングを行っています。
       </p>
 
       <section class="page-section" id="services">
