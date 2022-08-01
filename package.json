@@ -1,6 +1,6 @@
 {
-  "homepage": "https://kteworks.github.io",
-  "name": "kteworks.github",
+  "homepage": "https://kteworks.github.com/portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
