@@ -3,7 +3,7 @@ import { Button } from 'react-bootstrap';
 import reactImage from "../Images/react.png";
 import jsImage from "../Images/js.png";
 import firebaseImage from "../Images/firebase.jpg";
-import profileImage from "../Images/sibainu.jpg";
+import profileImage from "../Images/user_icon.png";
 
 const Homepage = () => {
   return (
@@ -30,7 +30,7 @@ const Homepage = () => {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">ECサイト</h4>
+              <h4 class="my-3">ダミー1</h4>
               <p class="text-muted">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
                 maxime quam architecto quo inventore harum ex magni, dicta
@@ -42,7 +42,7 @@ const Homepage = () => {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">レスポンシブサイト</h4>
+              <h4 class="my-3">ダミー2</h4>
               <p class="text-muted">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
                 maxime quam architecto quo inventore harum ex magni, dicta
@@ -54,7 +54,7 @@ const Homepage = () => {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">ウェブセキュリティ</h4>
+              <h4 class="my-3">ダミー3</h4>
               <p class="text-muted">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima
                 maxime quam architecto quo inventore harum ex magni, dicta
