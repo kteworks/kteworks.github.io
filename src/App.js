@@ -1,5 +1,4 @@
 import './App.css';
-import BlogPage from './components/BlogPage';
 import Header from './components/Header';
 import Homepage from './components/Homepage';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
@@ -12,7 +11,6 @@ function App() {
 
         <Routes>
           <Route path="/" element={ <Homepage /> } />
-          <Route path="/blog" element={ <BlogPage /> } />
           
         </Routes>
       

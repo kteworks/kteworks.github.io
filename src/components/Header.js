@@ -5,19 +5,16 @@ const Header = () => {
   return (
       <header>
           <div className="logo">
-              <h3>ポートフォリオ</h3>
+              <h3></h3>
           </div>
 
           <nav>
               <ul>
                   <li>
-                      <Link to="/">ホーム</Link>
+                      <Link to="/">Home</Link>
                   </li>
                   <li>
-                      <Link to="/blog">ダミー</Link>
-                  </li>
-                  <li>
-                      <Link to="https://github.com/kteworks/">Github</Link>
+                      <a href="https://github.com/kteworks/"  target="_blank" rel="noopener noreferrer">Github</a>
                   </li>
               </ul>
           </nav>
