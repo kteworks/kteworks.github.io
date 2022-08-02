@@ -1,6 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2823fc87.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.3ada8c00.js",
     "static/media/user_icon.png": "/static/media/user_icon.cdda74394874b51ad0cd.png",
     "static/media/java-logo.png": "/static/media/java-logo.7506ee0b6a3a7de68178.png",
@@ -13,5 +14,17 @@
   "entrypoints": [
     "static/css/main.2823fc87.css",
     "static/js/main.3ada8c00.js"
+=======
+    "main.js": "/static/js/main.73d2caaf.js",
+    "static/media/user_icon.png": "/static/media/user_icon.cdda74394874b51ad0cd.png",
+    "static/media/react.png": "/static/media/react.5be46e1d4c29661f3347.png",
+    "index.html": "/index.html",
+    "main.2823fc87.css.map": "/static/css/main.2823fc87.css.map",
+    "main.73d2caaf.js.map": "/static/js/main.73d2caaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2823fc87.css",
+    "static/js/main.73d2caaf.js"
+>>>>>>> origin/master
   ]
 }
