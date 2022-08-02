@@ -14,8 +14,12 @@ const Homepage = () => {
 
       <p>
         職業訓練にてC言語/Java/JSP/Servlet/C#/Unityの基礎を学びました。
+<<<<<<< HEAD
         あらゆることに好奇心旺盛で深く広く学びたいです。気づいたらブラウザのタブが増えています。
         こちらのページはReactで作成しています。
+=======
+        このポートフォリオはReactで作成しています。
+>>>>>>> 05eb392c51d00789b44627c6ddf65189f133ac56
       </p>
 
       <section class="page-section" id="services">
