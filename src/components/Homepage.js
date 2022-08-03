@@ -14,20 +14,21 @@ const Homepage = () => {
 
       <p>
         職業訓練にてC言語/Java/JSP/Servlet/C#/Unityの基礎を学びました。
-        このポートフォリオはReactで作成しています。
+        あらゆることに好奇心旺盛で深く広く学びたいです。気づいたらブラウザのタブが増えています。<br/>
+        こちらのポートフォリオはReactで作成しています。
       </p>
 
       <section class="page-section" id="services">
         <div className="service">
           <div class="text-center">
-            <h2 class="section-heading text-uppercase">PORTFOLIO</h2>
+            <h2 class="section-heading text-uppercase">Portfolio</h2>
             <h3 class="section-subheading text-muted mb-5">
               私が作った作品一覧です
             </h3>
           </div>
           <div class="row text-center">
             <div class="col-md-4">
-            <a href="https://momotarorpg.herokuapp.com" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/kteworks/momotarorpg" target="_blank" rel="noopener noreferrer">
               <span class="fa-stack fa-4x">
                 
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -38,7 +39,7 @@ const Homepage = () => {
               </a>
               <p class="text-muted">
                 職業訓練のグループ課題で作成したブラウザゲームです。JSP/Servletで
-                作成しました。<br />現在、SQLデータベース移行中のため動作しません。
+                作成しました。
               </p>
             </div>
             <div class="col-md-4">
@@ -51,7 +52,7 @@ const Homepage = () => {
               </a>
               <p class="text-muted">
                 現在制作途中。自分用にH2データベースからPostgreSQLに移行するためのアプリケーションを
-                制作しています。自分用なので今後の更新、他のデータベースへの対応、例外処理等を行うかは
+                取り急ぎ制作しました。自分用なので今後の更新、他のデータベースへの対応、例外処理等を行うかは
                 未定です。
               </p>
             </div>
