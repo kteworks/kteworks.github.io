@@ -38,8 +38,8 @@ const Homepage = () => {
               <h4 class="my-3">ももたろうRPG</h4>
               </a>
               <p class="text-muted">
-                職業訓練のグループ課題で作成したブラウザゲームです。JSP/Servletで
-                作成しました。
+                職業訓練のグループ課題で作成したブラウザゲームです。Java(JSP/Servlet),SQLで
+                制作しました。<br/><a href="https://momotarorpg.herokuapp.com/" target="_blank" rel="noopener noreferrer">こちら</a>でプレイが出来ます。
               </p>
             </div>
             <div class="col-md-4">
@@ -95,9 +95,11 @@ const Homepage = () => {
               <p>.NET Frameworkがつかえます</p>
             </div>
           </div>
-          <button type="button" class="btn btn-primary">
-            スキル一覧(工事中)
-          </button>
+          <Link to="/Skills">
+            <button type="button" class="btn btn-primary">
+               スキル一覧
+            </button>
+          </Link>
         </div>
       </section>
     </div>

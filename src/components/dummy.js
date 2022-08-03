@@ -15,4 +15,4 @@ const DummyPage = () => {
   )
 }
 
-export default BlogPage
+export default DummyPage
