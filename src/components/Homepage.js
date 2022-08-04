@@ -87,7 +87,7 @@ const Homepage = () => {
             <div class="col-md-4 services">
               <img src={javaImage} />
               <h4>Java</h4>
-              <p>Java/Servletがつかえます</p>
+              <p>Javaがつかえます</p>
             </div>
             <div class="col-md-4 services">
               <img src={csharpImage} />
