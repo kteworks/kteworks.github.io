@@ -28,7 +28,7 @@ const Homepage = () => {
           </div>
           <div class="row text-center">
             <div class="col-md-4">
-            <a href="https://github.com/kteworks/momotarorpg" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/kteworks/momotarorpg#readme" target="_blank" rel="noopener noreferrer">
               <span class="fa-stack fa-4x">
                 
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
@@ -39,7 +39,7 @@ const Homepage = () => {
               </a>
               <p class="text-muted">
                 職業訓練のグループ課題で作成したブラウザゲームです。Java(JSP/Servlet),SQLで
-                制作しました。<br/><a href="https://momotarorpg.herokuapp.com/" target="_blank" rel="noopener noreferrer">こちら</a>でプレイが出来ます。
+                制作しました。プレイできます。
               </p>
             </div>
             <div class="col-md-4">
@@ -57,7 +57,7 @@ const Homepage = () => {
               </p>
             </div>
             <div class="col-md-4">
-            <a href="https://github.com/kteworks/Breakout-Game" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/kteworks/Breakout-Game#readme" target="_blank" rel="noopener noreferrer">
               <span class="fa-stack fa-4x">
               
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
