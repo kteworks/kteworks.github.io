@@ -30,7 +30,6 @@ const SkillsPage = () => {
             <li>Javascript(React, Bootstrap)</li>
             <li>Python</li>
             <li>VB, VBA</li>
-            <li>Xamarin</li>
           </ul>
           <h4>OS</h4>
           <ul>  
