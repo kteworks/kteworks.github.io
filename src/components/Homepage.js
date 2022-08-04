@@ -43,7 +43,7 @@ const Homepage = () => {
               </p>
             </div>
             <div class="col-md-4">
-              <a href="https://github.com/kteworks/H2DB-to-SQL" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/kteworks/H2DB-to-SQL#readme" target="_blank" rel="noopener noreferrer">
               <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
@@ -51,7 +51,7 @@ const Homepage = () => {
               <h4 class="my-3">H2DB-to-SQL</h4>
               </a>
               <p class="text-muted">
-                現在制作途中。自分用にH2データベースからPostgreSQLに移行するためのアプリケーションを
+                自分用にH2データベースからPostgreSQLに移行するためのアプリケーションを
                 取り急ぎ制作しました。自分用なので今後の更新、他のデータベースへの対応、例外処理等を行うかは
                 未定です。
               </p>
