@@ -19,6 +19,9 @@ const Header = () => {
                   <li>
                       <a href="https://github.com/kteworks/"  target="_blank" rel="noopener noreferrer">Github</a>
                   </li>
+                  <li>
+                      <Link to="/Contact">Contact</Link>
+                  </li>
               </ul>
           </nav>
         </header>

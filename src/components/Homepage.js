@@ -10,7 +10,7 @@ const Homepage = () => {
     <div className="container text-center">
       <h1>Kazuya Terasawa</h1>
 
-      <img src={profileImage} className="profileImage" />
+      <img src={profileImage} alt="" className="profileImage" />
 
       <p>
         職業訓練にてC言語/Java/JSP/Servlet/C#/Unityの基礎を学びました。
@@ -80,17 +80,17 @@ const Homepage = () => {
           <h1 class="title">スキル</h1>
           <div class="row text-center">
             <div class="col-md-4 services">
-              <img src={clangImage} />
+              <img src={clangImage} alt="" />
               <h4>C Programming Language</h4>
               <p>C言語がつかえます</p>
             </div>
             <div class="col-md-4 services">
-              <img src={javaImage} />
+              <img src={javaImage} alt="" />
               <h4>Java</h4>
               <p>Javaがつかえます</p>
             </div>
             <div class="col-md-4 services">
-              <img src={csharpImage} />
+              <img src={csharpImage} alt="" />
               <h4>C#</h4>
               <p>.NET Frameworkがつかえます</p>
             </div>
