@@ -48,7 +48,7 @@ const Homepage = () => {
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-cubes fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">Tetris</h4>
+              <h4 class="my-3">Tetris-Csharp</h4>
               </a>
               <p class="text-muted">
                 C#で作成したテトリスです。UnityでBreakoutを製作後に簡単なゲームでWindowsのみ対応であればC#で良いのではないかと思い製作してみたものです。出来としては一番まともかもしれません。

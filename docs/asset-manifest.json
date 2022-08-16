@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.2823fc87.css",
-    "main.js": "/static/js/main.ddeeb5a7.js",
+    "main.js": "/static/js/main.a7b28838.js",
     "static/media/user_icon.png": "/static/media/user_icon.cdda74394874b51ad0cd.png",
     "static/media/java-logo.png": "/static/media/java-logo.7506ee0b6a3a7de68178.png",
     "static/media/c-sharp-logo.png": "/static/media/c-sharp-logo.48195cec3a5af73c77f8.png",
     "static/media/c-programming-logo.png": "/static/media/c-programming-logo.564faee847547f5be8f1.png",
     "index.html": "/index.html",
     "main.2823fc87.css.map": "/static/css/main.2823fc87.css.map",
-    "main.ddeeb5a7.js.map": "/static/js/main.ddeeb5a7.js.map"
+    "main.a7b28838.js.map": "/static/js/main.a7b28838.js.map"
   },
   "entrypoints": [
     "static/css/main.2823fc87.css",
-    "static/js/main.ddeeb5a7.js"
+    "static/js/main.a7b28838.js"
   ]
 }
