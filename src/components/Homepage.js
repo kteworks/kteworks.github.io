@@ -43,15 +43,15 @@ const Homepage = () => {
               </p>
             </div>
             <div class="col-md-4">
-              <a href="https://github.com/kteworks/Tetris-Csharp#readme" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/kteworks/TetrisStyle-Csharp#readme" target="_blank" rel="noopener noreferrer">
               <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
                 <i class="fas fa-cubes fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">Tetris-Csharp</h4>
+              <h4 class="my-3">TetrisStyle</h4>
               </a>
               <p class="text-muted">
-                C#で作成したテトリスです。UnityでBreakoutを製作後に簡単なゲームでWindowsのみ対応であればC#で良いのではないかと思い製作してみたものです。出来としては一番まともかもしれません。
+                C#で作成したテトリス風ゲームです。UnityでBreakoutを製作後に簡単なゲームでWindowsのみ対応であればC#で良いのではないかと思い製作してみたものです。出来としては一番まともかもしれません。
                 プレイする場合はこちらからダウンロードできます。<a href="https://github.com/kteworks/Tetris-Csharp/releases/latest" target="_blank" rel="noopener noreferrer">最新リリース</a>
               </p>
             </div>
