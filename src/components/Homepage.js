@@ -43,17 +43,16 @@ const Homepage = () => {
               </p>
             </div>
             <div class="col-md-4">
-              <a href="https://github.com/kteworks/H2DB-to-SQL#readme" target="_blank" rel="noopener noreferrer">
+              <a href="https://github.com/kteworks/Tetris-Csharp#readme" target="_blank" rel="noopener noreferrer">
               <span class="fa-stack fa-4x">
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
+                <i class="fas fa-cubes fa-stack-1x fa-inverse"></i>
               </span>
-              <h4 class="my-3">H2DB-to-SQL</h4>
+              <h4 class="my-3">Tetris</h4>
               </a>
               <p class="text-muted">
-                自分用にH2データベースからPostgreSQLに移行するためのアプリケーションを
-                取り急ぎ制作しました。自分用なので今後の更新、他のデータベースへの対応、例外処理等を行うかは
-                未定です。
+                C#で作成したテトリスです。UnityでBreakoutを製作後に簡単なゲームでWindowsのみ対応であればC#で良いのではないかと思い製作してみたものです。出来としては一番まともかもしれません。
+                プレイする場合はこちらからダウンロードできます。<a href="https://github.com/kteworks/Tetris-Csharp/releases/latest" target="_blank" rel="noopener noreferrer">最新リリース</a>
               </p>
             </div>
             <div class="col-md-4">
@@ -61,7 +60,7 @@ const Homepage = () => {
               <span class="fa-stack fa-4x">
               
                 <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                <i class="fas fa-cube fa-stack-1x fa-inverse"></i>
+                <i class="fas fa-dice-d6 fa-stack-1x fa-inverse"></i>
                 
               </span>
               <h4 class="my-3">Breakout</h4>
