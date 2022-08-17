@@ -39,7 +39,7 @@ const Homepage = () => {
               </a>
               <p class="text-muted">
                 職業訓練のグループ課題で作成したブラウザゲームです。Java(JSP/Servlet),SQLで
-                制作しました。プレイできます。
+                制作しました。プレイできます。個人でオンラインに移行を行いました。移行に辺り利用しているSQLデータベースをH2 DatabaseからPostgreSQLにデータを移行する必要がありましたので<a href="https://github.com/kteworks/H2DB-to-SQL#readme" target="_blank" rel="noopener noreferrer">移行用のプログラム</a>も製作しました。
               </p>
             </div>
             <div class="col-md-4">
